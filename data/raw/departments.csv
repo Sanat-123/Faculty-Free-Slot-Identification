@@ -1,0 +1,6 @@
+department_id,department_name,building,hod_name,established_year
+D001,Computer Science,Block A,Dr. Sharma,2002
+D002,Information Technology,Block A,Dr. Singh,2003
+D003,Artificial Intelligence,AI Block,Dr. Verma,2021
+D004,Electronics,Block B,Dr. Gupta,2001
+D005,Mechanical,Block C,Dr. Jain,1999

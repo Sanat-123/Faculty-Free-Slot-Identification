@@ -1,0 +1,11 @@
+course_id,course_name,duration_years,department_id
+C001,B.Tech Computer Science,4,D001
+C002,M.Tech Computer Science,2,D001
+C003,B.Tech Information Technology,4,D002
+C004,B.Tech Artificial Intelligence,4,D003
+C005,B.Tech Electronics,4,D004
+C006,B.Tech Mechanical,4,D005
+C007,B.Tech Civil,4,D005
+C008,MBA,2,D002
+C009,MCA,2,D001
+C010,B.Tech Data Science,4,D003
