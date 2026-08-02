@@ -1,0 +1,6683 @@
+{
+    "Dr. Mehul Mahrishi": {
+        "Monday": [
+            {
+                "subject": "Project/Spoken-Latex IAI",
+                "room": "",
+                "class": "7CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "OS III",
+                "room": "303",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [
+            {
+                "subject": "OS III",
+                "room": "302",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "OS III",
+                "room": "304",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Saturday": []
+    },
+    "Dr. Chothmal Choudhary": {
+        "Monday": [
+            {
+                "subject": "CD",
+                "room": "403",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [
+            {
+                "subject": "CD",
+                "room": "403",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "CD",
+                "room": "405",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "SMA Lab",
+                "room": "CL-21",
+                "class": "7CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "CD",
+                "room": "404",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "CD",
+                "room": "404",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "SMA Lab F::",
+                "room": "CP6",
+                "class": "7CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CD",
+                "room": "404",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "SMA Lab",
+                "room": "CL-20",
+                "class": "7CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SMA Lab",
+                "room": "CL-20",
+                "class": "7CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "SMA Lab",
+                "room": "CL-20",
+                "class": "7CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ]
+    },
+    "Dr. Pankaj Dadheech": {
+        "Monday": [
+            {
+                "subject": "CGMT",
+                "room": "403",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "CGMT",
+                "room": "403",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "CG Lab",
+                "room": "CL-18",
+                "class": "5CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "Seminar",
+                "room": "IAI Lab",
+                "class": "7CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "CGMT",
+                "room": "404",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "CG Lab",
+                "room": "CL-18",
+                "class": "5CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CGMT",
+                "room": "406",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "CGMT",
+                "room": "403",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CGMT",
+                "room": "403",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ]
+    },
+    "Dr. Aakriti Sharma": {
+        "Monday": [
+            {
+                "subject": "SE&PM",
+                "room": "302",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "SE&PM",
+                "room": "301",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "Seminar",
+                "room": "IAI Lab",
+                "class": "7CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "SE Lab",
+                "room": "CL-15",
+                "class": "3CS-C",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "SE Lab",
+                "room": "CL-17",
+                "class": "3CS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "Seminar F::",
+                "room": "CP5",
+                "class": "7CS-DS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "SE&PM",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "SE&PM",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "SE&PM",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SE&PM",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ]
+    },
+    "Dr. Anjana Sangwan": {
+        "Monday": [
+            {
+                "subject": "Project/Spoken-Latex",
+                "room": "IAI Lab",
+                "class": "7CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "OS III",
+                "room": "301",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "OS III",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "OS III",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "OS III",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "Project/Spoken-Latex",
+                "room": "IAI Lab",
+                "class": "7CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "OS III",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "OS III",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ]
+    },
+    "Mr. Ashish Pant": {
+        "Monday": [
+            {
+                "subject": "DSA",
+                "room": "303",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-17",
+                "class": "3CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DSA",
+                "room": "304",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-7",
+                "class": "3CS-C",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DSA",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DSA",
+                "room": "106",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DSA",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-22",
+                "class": "3CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DSA",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "ITR III",
+                "room": "305",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ]
+    },
+    "Ms. Abha Jain": {
+        "Monday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-11",
+                "class": "3CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DSA",
+                "room": "103",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 5
+            },
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-11",
+                "class": "3CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-11",
+                "class": "3CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DSA",
+                "room": "105",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DSA",
+                "room": "106",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-11",
+                "class": "3CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DSA",
+                "room": "103",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "DSA",
+                "room": "104",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 7
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "DSA",
+                "room": "103",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 5
+            }
+        ]
+    },
+    "Ms.Allisa Goyal": {
+        "Monday": [
+            {
+                "subject": "SE&PM",
+                "room": "302",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "SE&PM",
+                "room": "306",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "SE Lab",
+                "room": "CL-17",
+                "class": "3CS E",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "SE&PM",
+                "room": "303",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "SE&PM",
+                "room": "305",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "SE Lab",
+                "room": "CL-22",
+                "class": "3CS-F",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "SE Lab",
+                "room": "CL-16",
+                "class": "3CS-F",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "SE&PM",
+                "room": "306",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SE&PM",
+                "room": "301",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "SE Lab",
+                "room": "CL-17",
+                "class": "3CS E",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ]
+    },
+    "Ms.Archika Jain": {
+        "Monday": [
+            {
+                "subject": "Python for DS Lab",
+                "room": "CL-15",
+                "class": "3CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ADBMS",
+                "room": "301",
+                "class": "M.tech-III",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "ADBMS",
+                "room": "",
+                "class": "M.tech-III",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "Python for DS Lab",
+                "room": "CL-22",
+                "class": "3CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DSI oT",
+                "room": "ME-301",
+                "class": "7CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "ADBMS",
+                "room": "103",
+                "class": "M.tech-III",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "ITR III",
+                "room": "105",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "ITR III",
+                "room": "306",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "Python for DS Lab",
+                "room": "CL-15",
+                "class": "3CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DSI oT",
+                "room": "L9",
+                "class": "7CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "Python for DS Lab",
+                "room": "CL-7",
+                "class": "3CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DSI oT",
+                "room": "ME-301",
+                "class": "7CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ]
+    },
+    "Dr. Arpita Sharma": {
+        "Monday": [
+            {
+                "subject": "SE&PM",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "SE Lab",
+                "room": "CL-15",
+                "class": "3CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "SE&PM",
+                "room": "304",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "ITR V",
+                "room": "404",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "SE&PM",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "SE&PM",
+                "room": "303",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "SE Lab",
+                "room": "CL-16",
+                "class": "3CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "SE&PM",
+                "room": "302",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "ITR V",
+                "room": "403",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "SE&PM",
+                "room": "304",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SE Lab",
+                "room": "CL-17",
+                "class": "3CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ]
+    },
+    "Ms.Barkha Jain": {
+        "Monday": [
+            {
+                "subject": "Java",
+                "room": "CL-16",
+                "class": "3CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "Java",
+                "room": "CL-16",
+                "class": "3CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "SE&PM",
+                "room": "306",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "SE&PM",
+                "room": "406",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "ITR V",
+                "room": "406",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "Java",
+                "room": "CL-16",
+                "class": "3CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "SE&PM",
+                "room": "103",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "SE&PM",
+                "room": "104",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SE&PM",
+                "room": "305",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "ITR V",
+                "room": "404",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "SE&PM",
+                "room": "103",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ]
+    },
+    "Mr. Dinesh Kumar": {
+        "Monday": [
+            {
+                "subject": "Seminar F::",
+                "room": "CP5",
+                "class": "7CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "FoIOT",
+                "room": "L9",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "IOT Lab",
+                "room": "CL-2",
+                "class": "7CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "IOT Lab",
+                "room": "CL-2",
+                "class": "7CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "IOT Lab",
+                "room": "CL-2",
+                "class": "5CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "FoIOT",
+                "room": "105",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "IOT Lab",
+                "room": "CL-2",
+                "class": "5CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "IOT Lab",
+                "room": "CL-2",
+                "class": "7CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "FoIOT",
+                "room": "303",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "IOT Lab",
+                "room": "CL-2",
+                "class": "7CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ]
+    },
+    "Mr. Harpreet Singh Gill": {
+        "Monday": [
+            {
+                "subject": "CGMT",
+                "room": "405",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "CG Lab",
+                "room": "CL-18",
+                "class": "5CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CG Lab",
+                "room": "CL-21",
+                "class": "5CS-C",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "CG Lab",
+                "room": "CL-21",
+                "class": "5CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CGMT",
+                "room": "406",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "CGMT",
+                "room": "406",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "CGMT",
+                "room": "301",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CG Lab",
+                "room": "CL-18",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "CGMT",
+                "room": "403",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CG Lab",
+                "room": "CL-18",
+                "class": "5CS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CGMT",
+                "room": "106",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ]
+    },
+    "Dr. Abdul Naim Khan": {
+        "Monday": [
+            {
+                "subject": "DE",
+                "room": "305",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3CS-C",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3CSAI-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DE",
+                "room": "403",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3-CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DE",
+                "room": "306",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            },
+            {
+                "subject": "DE",
+                "room": "306",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DE",
+                "room": "301",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DE",
+                "room": "304",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3-CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ]
+    },
+    "Ms.Jyoti Rajharia": {
+        "Monday": [
+            {
+                "subject": "SE&PM",
+                "room": "303",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "Java",
+                "room": "CL-7",
+                "class": "3-CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ITR III",
+                "room": "302",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            },
+            {
+                "subject": "SE&PM",
+                "room": "103",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "SE&PM",
+                "room": "404",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "Java",
+                "room": "CL-11",
+                "class": "3-CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "Seminar",
+                "room": "CL-21",
+                "class": "7CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "Java",
+                "room": "CL-15",
+                "class": "3CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "ITR III",
+                "room": "104",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "Java",
+                "room": "CL-7",
+                "class": "3CS E",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ]
+    },
+    "Mr. Kailash Soni": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": []
+    },
+    "Mr. Kapil Sharma": {
+        "Monday": [
+            {
+                "subject": "LP Lab",
+                "room": "CL-17",
+                "class": "3CSAI-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "FoAI",
+                "room": "302",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "FoAI",
+                "room": "301",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "FoAI",
+                "room": "305",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "FoAI",
+                "room": "304",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "LP Lab",
+                "room": "CL-15",
+                "class": "3CS AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "FoAI",
+                "room": "305",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "LP Lab",
+                "room": "CL-1",
+                "class": "3CS AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "LP Lab",
+                "room": "CL-15",
+                "class": "3CSAI-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "FoAI",
+                "room": "403",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ]
+    },
+    "Dr. Kajal Mathur": {
+        "Monday": [
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-13",
+                "class": "5CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "OS V",
+                "room": "404",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "405",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CP7",
+                "class": "5CS AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "Java",
+                "room": "CL-15",
+                "class": "3CS-F",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "OS V",
+                "room": "406",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "405",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-13",
+                "class": "5CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "Java",
+                "room": "CL-15",
+                "class": "3CS-F",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "OS V",
+                "room": "404",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "406",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ]
+    },
+    "Ms. Kiran Aahuja": {
+        "Monday": [
+            {
+                "subject": "SE&PM",
+                "room": "302",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "SE&PM",
+                "room": "302",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "SE&PM",
+                "room": "405",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "103",
+                "class": "5CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "SE&PM",
+                "room": "305",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "SE&PM",
+                "room": "305",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CP7",
+                "class": "5CS AI-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SE&PM",
+                "room": "306",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ]
+    },
+    "Dr. Karuna Sharma": {
+        "Monday": [
+            {
+                "subject": "ITR III",
+                "room": "302",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DV-R",
+                "room": "106",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 4
+            },
+            {
+                "subject": "R Prog",
+                "room": "CL-19",
+                "class": "5CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DV-R",
+                "room": "105",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "R Prog",
+                "room": "CL-19",
+                "class": "5CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "ITR III",
+                "room": "306",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DV-R",
+                "room": "104",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DV-R",
+                "room": "305",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "R Prog",
+                "room": "CL-1",
+                "class": "5CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DV-R",
+                "room": "105",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DV-R",
+                "room": "103",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ITR III",
+                "room": "302",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            },
+            {
+                "subject": "R Prog",
+                "room": "CL-1",
+                "class": "5CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ]
+    },
+    "Dr. Loveleen Kumar": {
+        "Monday": [
+            {
+                "subject": "AOA",
+                "room": "406",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-21",
+                "class": "5CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "AOA Lab",
+                "room": "CL-14",
+                "class": "5CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ITR VII",
+                "room": "",
+                "class": "7CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-10",
+                "class": "5CS-C",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "ITR VII",
+                "room": "ME-301",
+                "class": "7CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "AOA",
+                "room": "406",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-17",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "AOA",
+                "room": "406",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-20",
+                "class": "5CS-C",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "AOA",
+                "room": "106",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "AOA",
+                "room": "403",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "AOA",
+                "room": "406",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ]
+    },
+    "Mr. Mahender Kumar Beniwal": {
+        "Monday": [
+            {
+                "subject": "OS III",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "Java",
+                "room": "CL-16",
+                "class": "3CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "Java",
+                "room": "CL-16",
+                "class": "3CS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "Java",
+                "room": "CL-16",
+                "class": "3CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "OS III",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "OS III",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "Java",
+                "room": "CL-16",
+                "class": "3CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ]
+    },
+    "Mr. Manish Kumar Sharma": {
+        "Monday": [
+            {
+                "subject": "CGMT",
+                "room": "404",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "CGMT",
+                "room": "404",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "CGMT",
+                "room": "404",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "CS Lab F::",
+                "room": "CP5",
+                "class": "7CS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "CS Lab F::",
+                "room": "CP5",
+                "class": "7CS-C",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CGMT",
+                "room": "105",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "CS Lab F::",
+                "room": "CP5",
+                "class": "7CS-C",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CS Lab F::",
+                "room": "CP6",
+                "class": "7CS-C",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CGMT",
+                "room": "405",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "CGMT",
+                "room": "404",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CS Lab F::",
+                "room": "CP5",
+                "class": "7CS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CS Lab",
+                "room": "CL-21",
+                "class": "7CS-C",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ]
+    },
+    "Ms. Mani Butwall": {
+        "Monday": [
+            {
+                "subject": "DSA",
+                "room": "304",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DSA",
+                "room": "306",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DSA",
+                "room": "305",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-22",
+                "class": "3CS-F",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DSA",
+                "room": "305",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            },
+            {
+                "subject": "Adv. ML",
+                "room": "CL-10",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DSA",
+                "room": "304",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-17",
+                "class": "3CS E",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-11",
+                "class": "3CS E",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "Adv. ML",
+                "room": "CL-17",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DSA",
+                "room": "304",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-22",
+                "class": "3CS-F",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ]
+    },
+    "Mr. Manish Bhardwaj": {
+        "Monday": [
+            {
+                "subject": "OS V",
+                "room": "405",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "Project/Spoken-Latex IAI",
+                "room": "",
+                "class": "7CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "OS V",
+                "room": "106",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "OS V",
+                "room": "104",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "Project/Spoken-Latex IAI",
+                "room": "",
+                "class": "7CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "104",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "OS V",
+                "room": "306",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "OS V",
+                "room": "105",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ]
+    },
+    "Dr. Meenakshi Nawal": {
+        "Monday": [
+            {
+                "subject": "AOA",
+                "room": "L9",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "AOA",
+                "room": "105",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "D&aL",
+                "room": "CL-1",
+                "class": "7CS-AI-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "D&aL",
+                "room": "CL-1",
+                "class": "7CS-AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "D&aL",
+                "room": "CL-1",
+                "class": "7CS-AI-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "D&aL",
+                "room": "CL-1",
+                "class": "7CS-AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "D&aL",
+                "room": "CL-10",
+                "class": "7CS-AI-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "D&aL",
+                "room": "CL-21",
+                "class": "7CS-AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "D&aL",
+                "room": "CL-10",
+                "class": "7CS-AI-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "D&aL",
+                "room": "CL-10",
+                "class": "7CS-AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "AOA",
+                "room": "106",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ]
+    },
+    "Dr. Megha Gupta": {
+        "Monday": [
+            {
+                "subject": "CD",
+                "room": "105",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "CD",
+                "room": "405",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "CD",
+                "room": "104",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "CD Lab",
+                "room": "CP7",
+                "class": "5CS AI-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "CD Lab",
+                "room": "CL-14",
+                "class": "5CS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CD Lab",
+                "room": "CL-10",
+                "class": "5CS AI-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CD",
+                "room": "406",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "CD",
+                "room": "406",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "CD Lab",
+                "room": "CL-21",
+                "class": "5CS AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CD",
+                "room": "403",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "CD Lab",
+                "room": "CL-18",
+                "class": "5CS AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ]
+    },
+    "Dr. Mithelesh Arya": {
+        "Monday": [
+            {
+                "subject": "DMCT",
+                "room": "106",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "ML&PR",
+                "room": "405",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            },
+            {
+                "subject": "DMCT",
+                "room": "303",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DMCT",
+                "room": "106",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ML&PR",
+                "room": "103",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "CS Lab F::",
+                "room": "CP6",
+                "class": "7CS-E",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DMCT",
+                "room": "104",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "CS Lab",
+                "room": "CL-19",
+                "class": "7CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "Seminar",
+                "room": "CL-11",
+                "class": "7CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "CS Lab",
+                "room": "CL-10",
+                "class": "7CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ML&PR",
+                "room": "106",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DMCT",
+                "room": "406",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CS Lab",
+                "room": "CL-21",
+                "class": "7CS-E",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CS Lab",
+                "room": "CL-10",
+                "class": "7CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CS Lab",
+                "room": "IAI Lab",
+                "class": "7CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DMCT",
+                "room": "103",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ]
+    },
+    "Ms Neetu Agrawal": {
+        "Monday": [
+            {
+                "subject": "CS Lab",
+                "room": "CL-1",
+                "class": "7CS-E",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "104",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "CS Lab",
+                "room": "CL-21",
+                "class": "7CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CS Lab F::",
+                "room": "CP6",
+                "class": "7CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "OS V",
+                "room": "103",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "106",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "OS V",
+                "room": "403",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "203",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CS Lab",
+                "room": "CL-1",
+                "class": "7CS-E",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CS Lab F::",
+                "room": "CP6",
+                "class": "7CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CS Lab F::",
+                "room": "CP6",
+                "class": "7CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "405",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ]
+    },
+    "Ms. Neha Mathur": {
+        "Monday": [
+            {
+                "subject": "CD Lab",
+                "room": "CL-3",
+                "class": "5CS-C",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "CD",
+                "room": "405",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "CD Lab",
+                "room": "CL-14",
+                "class": "5CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "Seminar IAI",
+                "room": "",
+                "class": "7CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "CD",
+                "room": "405",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "CD Lab",
+                "room": "CL-14",
+                "class": "5CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CD",
+                "room": "405",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "CD",
+                "room": "404",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "CD Lab",
+                "room": "CL-14",
+                "class": "5CS-C",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CD",
+                "room": "404",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "CD",
+                "room": "406",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ]
+    },
+    "Ms. Nidhi Srivastav": {
+        "Monday": [
+            {
+                "subject": "AOA",
+                "room": "404",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "AOA Lab",
+                "room": "CL-10",
+                "class": "5CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "AOA",
+                "room": "403",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "ITR VII",
+                "room": "305",
+                "class": "7CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "AOA",
+                "room": "403",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-14",
+                "class": "5CS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "AOA",
+                "room": "404",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "AOA",
+                "room": "404",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "AOA",
+                "room": "403",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-10",
+                "class": "5CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "AOA Lab",
+                "room": "CL-1",
+                "class": "5CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ITR VII",
+                "room": "406",
+                "class": "7CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ]
+    },
+    "Ms. Shanu Tripathi": {
+        "Monday": [
+            {
+                "subject": "DE",
+                "room": "103",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DE",
+                "room": "301",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DE",
+                "room": "302",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DE",
+                "room": "304",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DE",
+                "room": "403",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DE",
+                "room": "305",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3CSAI-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ITR III",
+                "room": "304",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ]
+    },
+    "Ms. Nikita Gautam": {
+        "Monday": [
+            {
+                "subject": "DE",
+                "room": "304",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DE",
+                "room": "103",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "DE",
+                "room": "301",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 5
+            },
+            {
+                "subject": "ITR VII",
+                "room": "405",
+                "class": "7CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "CV Lab",
+                "room": "CL-3",
+                "class": "7CS-AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "ITR VII",
+                "room": "304",
+                "class": "7CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            },
+            {
+                "subject": "ITR VII",
+                "room": "404",
+                "class": "7CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 7
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DE",
+                "room": "306",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "CV Lab F::",
+                "room": "CP6",
+                "class": "7CS-AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DE",
+                "room": "103",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "CV Lab",
+                "room": "CL-14",
+                "class": "7CS-AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "DE",
+                "room": "305",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CV Lab F::",
+                "room": "CP5",
+                "class": "7CS-AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "ITR VII",
+                "room": "304",
+                "class": "7CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ]
+    },
+    "Mr. Neeraj Garg": {
+        "Monday": [
+            {
+                "subject": "FoDS",
+                "room": "304",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "FoDS",
+                "room": "103",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "FoDS",
+                "room": "301",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "FoDS",
+                "room": "306",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "FoDS Lab",
+                "room": "CL-20",
+                "class": "7CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "FoDS Lab",
+                "room": "CL-3",
+                "class": "7CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "Java",
+                "room": "CL-7",
+                "class": "3CS E",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "FoDS",
+                "room": "104",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "FoDS Lab",
+                "room": "CP7",
+                "class": "7CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "FoDS Lab",
+                "room": "CL-13",
+                "class": "7CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "FoDS",
+                "room": "306",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ]
+    },
+    "Ms. Palika Jajoo": {
+        "Monday": [
+            {
+                "subject": "DSA",
+                "room": "103",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-22",
+                "class": "3CS AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DSA",
+                "room": "301",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-11",
+                "class": "3CSAI-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DSA",
+                "room": "305",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            },
+            {
+                "subject": "DSA",
+                "room": "405",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DSA",
+                "room": "305",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DSA",
+                "room": "305",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-17",
+                "class": "3CSAI-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-22",
+                "class": "3CS AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ]
+    },
+    "Mr. Pawan Kumar Patidar": {
+        "Monday": [
+            {
+                "subject": "DSA",
+                "room": "306",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-11",
+                "class": "3CS-C",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-22",
+                "class": "3CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DSA",
+                "room": "103",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-22",
+                "class": "3-CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DSA",
+                "room": "104",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-15",
+                "class": "3-CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ]
+    },
+    "Ms. Priyanka Sharma": {
+        "Monday": [
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-13",
+                "class": "5CS-C",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CS",
+                "room": "404",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            },
+            {
+                "subject": "IOT",
+                "room": "105",
+                "class": "7CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-13",
+                "class": "5CS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-13",
+                "class": "5CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "CS",
+                "room": "ME-301",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-13",
+                "class": "5CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "IOT",
+                "room": "L9",
+                "class": "7CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-13",
+                "class": "5CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "IOT",
+                "room": "ME-301",
+                "class": "7CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "IOT",
+                "room": "301",
+                "class": "7CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "CS",
+                "room": "405",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-13",
+                "class": "5CS-C",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "IOT",
+                "room": "ME-302",
+                "class": "7CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "IOT",
+                "room": "ME-302",
+                "class": "7CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ]
+    },
+    "Ms. Priya Gupta": {
+        "Monday": [
+            {
+                "subject": "Java",
+                "room": "CL-7",
+                "class": "3CSAI-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "AOA",
+                "room": "403",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "AOA",
+                "room": "404",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "ITR V",
+                "room": "406",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "AOA",
+                "room": "105",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "Java",
+                "room": "CL-7",
+                "class": "3CS AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "ITR V",
+                "room": "303",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "Java",
+                "room": "CL-3",
+                "class": "3CS AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "Java",
+                "room": "CL-7",
+                "class": "3CSAI-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ]
+    },
+    "Mr. Rajesh Rajaan": {
+        "Monday": [
+            {
+                "subject": "AOA",
+                "room": "104",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-10",
+                "class": "5CS AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "AOA",
+                "room": "104",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "ITR V",
+                "room": "405",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "AOA Lab",
+                "room": "CL-19",
+                "class": "5CS AI-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "AOA",
+                "room": "404",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "AOA",
+                "room": "403",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "ITR V",
+                "room": "403",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-1",
+                "class": "5CS AI-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "AOA Lab",
+                "room": "CL-18",
+                "class": "5CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-2",
+                "class": "5CS AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "AOA",
+                "room": "405",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "AOA",
+                "room": "403",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ]
+    },
+    "Ms. Richa Sharma": {
+        "Monday": [
+            {
+                "subject": "AOA Lab",
+                "room": "CL-10",
+                "class": "5CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "AOA",
+                "room": "305",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "AOA Lab",
+                "room": "CL-1",
+                "class": "5CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ITR V",
+                "room": "106",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-14",
+                "class": "5CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "AOA Lab",
+                "room": "CL-18",
+                "class": "5CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "AOA Lab",
+                "room": "CL-10",
+                "class": "5CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "AOA",
+                "room": "104",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "AOA",
+                "room": "103",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 4
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "AOA",
+                "room": "306",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "AOA",
+                "room": "406",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "AOA",
+                "room": "103",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "ITR V",
+                "room": "404",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 7
+            }
+        ]
+    },
+    "Dr. S. Sarabjeet Singh Sethi": {
+        "Monday": [
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "IOT",
+                "room": "ME-301",
+                "class": "7CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "IOT",
+                "room": "104",
+                "class": "7CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "IOT",
+                "room": "ME-103",
+                "class": "7CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "IOT",
+                "room": "ME-103",
+                "class": "7CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "IOT",
+                "room": "ME-103",
+                "class": "7CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "IOT",
+                "room": "ME-103",
+                "class": "7CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ]
+    },
+    "Dr. Niketa Sharma": {
+        "Monday": [
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DE",
+                "room": "304",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DE",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DE",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DE",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DE",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DE",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ]
+    },
+    "Mr. Sumit Kumar": {
+        "Monday": [
+            {
+                "subject": "Project/Spoken-Latex",
+                "room": "IAI Lab",
+                "class": "7CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "DV-R",
+                "room": "ME-301",
+                "class": "7CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "Project/Spoken-Latex IAI",
+                "room": "",
+                "class": "7CS-DS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DV-R",
+                "room": "105",
+                "class": "7CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 7
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DV-R",
+                "room": "203",
+                "class": "7CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "DV-R",
+                "room": "105",
+                "class": "7CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 4
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DV-R",
+                "room": "203",
+                "class": "7CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DV-R",
+                "room": "203",
+                "class": "7CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 4
+            }
+        ]
+    },
+    "Dr. Sunil Dhankhar": {
+        "Monday": [
+            {
+                "subject": "OS III",
+                "room": "305",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "CS Lab F::",
+                "room": "CP5",
+                "class": "7CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "CS Lab F::",
+                "room": "CP5",
+                "class": "7CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CS Lab F::",
+                "room": "CP5",
+                "class": "7CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "OS III",
+                "room": "306",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "OS III",
+                "room": "303",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "OS III",
+                "room": "304",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "OS III",
+                "room": "303",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CS Lab F::",
+                "room": "CP5",
+                "class": "7CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CS Lab F::",
+                "room": "CP5",
+                "class": "7CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "OS III",
+                "room": "301",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "CS Lab F::",
+                "room": "CP6",
+                "class": "7CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ]
+    },
+    "Mr. Shirish Nagar": {
+        "Monday": [
+            {
+                "subject": "OS V",
+                "room": "L9",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "406",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "OS V",
+                "room": "406",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-19",
+                "class": "5CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-13",
+                "class": "5CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ITR VII",
+                "room": "ME-302",
+                "class": "7CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "ITR VII",
+                "room": "306",
+                "class": "7CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CL-13",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "301",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CP7",
+                "class": "5CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CP7",
+                "class": "5CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "OS V",
+                "room": "303",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "OS V",
+                "room": "106",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ]
+    },
+    "Mr. Sohan Gupta": {
+        "Monday": [
+            {
+                "subject": "CD",
+                "room": "406",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "CD",
+                "room": "L9",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "CD Lab",
+                "room": "CL-20",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "CD Lab",
+                "room": "CL-20",
+                "class": "5CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CD",
+                "room": "406",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "Seminar",
+                "room": "CL-20",
+                "class": "7CS-DS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "CD Lab",
+                "room": "CL-20",
+                "class": "5CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "CD",
+                "room": "105",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CD",
+                "room": "106",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "CD",
+                "room": "303",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CD Lab",
+                "room": "CP7",
+                "class": "5CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CP7",
+                "class": "5CS AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ]
+    },
+    "Ms. Suniti Chauhan": {
+        "Monday": [
+            {
+                "subject": "FOB",
+                "room": "405",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ITM Kautilya Seminar",
+                "room": "",
+                "class": "MBA-I",
+                "group": "sem",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "FOB",
+                "room": "105",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "ITM Kautilya Seminar",
+                "room": "",
+                "class": "MBA-I",
+                "group": "sem",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DV&ER Lab F::",
+                "room": "CP6",
+                "class": "7CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DV&ER Lab F::",
+                "room": "CP6",
+                "class": "7CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "DV&ER Lab F::",
+                "room": "CP6",
+                "class": "7CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "ITM Kautilya Seminar",
+                "room": "",
+                "class": "MBA-I",
+                "group": "sem",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "FOB",
+                "room": "104",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 4
+            },
+            {
+                "subject": "DV&ER Lab",
+                "room": "CL-19",
+                "class": "7CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DV&ER Lab",
+                "room": "CL-19",
+                "class": "7CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DV&ER Lab",
+                "room": "CL-19",
+                "class": "7CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DV&ER Lab",
+                "room": "CL-19",
+                "class": "7CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DV&ER Lab",
+                "room": "CL-19",
+                "class": "7CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "FOB",
+                "room": "404",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ]
+    },
+    "Mr. Shivank Lavania": {
+        "Monday": [
+            {
+                "subject": "FOB",
+                "room": "105",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "FOB",
+                "room": "303",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "SE Lab",
+                "room": "CL-17",
+                "class": "3CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "SMA Lab",
+                "room": "CL-10",
+                "class": "7CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "FOB",
+                "room": "203",
+                "class": "5CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "FOB",
+                "room": "406",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "SMA Lab",
+                "room": "CL-20",
+                "class": "7CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "SE Lab",
+                "room": "CL-16",
+                "class": "3CS-C",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SE Lab",
+                "room": "CL-11",
+                "class": "3CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ]
+    },
+    "Ms. Sneha Sharma": {
+        "Monday": [
+            {
+                "subject": "CD Lab",
+                "room": "CL-14",
+                "class": "5CS-DS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CD Lab",
+                "room": "CL-14",
+                "class": "5CS-DS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "CD Lab",
+                "room": "CL-14",
+                "class": "5CS-DS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "CD",
+                "room": "104",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "CD",
+                "room": "104",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CD",
+                "room": "103",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CD",
+                "room": "105",
+                "class": "5CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CD",
+                "room": "306",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            },
+            {
+                "subject": "CD Lab",
+                "room": "CL-20",
+                "class": "5CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CD Lab",
+                "room": "CL-14",
+                "class": "5CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CD",
+                "room": "105",
+                "class": "5CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 4
+            },
+            {
+                "subject": "CD Lab",
+                "room": "CL-10",
+                "class": "5CS-DS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ]
+    },
+    "Ms. Sarla Jangid": {
+        "Monday": [
+            {
+                "subject": "A-JAVA Lab/Spoken-Java",
+                "room": "CP7",
+                "class": "5CS AI-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "Java",
+                "room": "CL-7",
+                "class": "3CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "Java",
+                "room": "CL-7",
+                "class": "3CS-C",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "Java",
+                "room": "CL-17",
+                "class": "3CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DL",
+                "room": "L9",
+                "class": "7CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            },
+            {
+                "subject": "DL",
+                "room": "302",
+                "class": "7CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DL",
+                "room": "ME-302",
+                "class": "7CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DL",
+                "room": "L9",
+                "class": "7CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "Java",
+                "room": "CL-17",
+                "class": "3CS-C",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DL",
+                "room": "L9",
+                "class": "7CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DL",
+                "room": "L9",
+                "class": "7CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ]
+    },
+    "Dr. Vinay Kanungo": {
+        "Monday": [
+            {
+                "subject": "DE",
+                "room": "303",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DE",
+                "room": "304",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DE",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "IP&CV",
+                "room": "405",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3CS-C",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "IP&CV",
+                "room": "403",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DE",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DE",
+                "room": "304",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "IP&CV",
+                "room": "106",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS-D",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DE Lab F:EE-Lab",
+                "room": "13",
+                "class": "3CS-D",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DE",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ]
+    },
+    "Mr. Vinod Kataria": {
+        "Monday": [
+            {
+                "subject": "DE",
+                "room": "304",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DE",
+                "room": "305",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS E",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DE",
+                "room": "303",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS-F",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS E",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ITR III",
+                "room": "406",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DE Lab",
+                "room": "ECL-08",
+                "class": "3CS-F",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ]
+    },
+    "Mr.Vikram Khandelwal": {
+        "Monday": [
+            {
+                "subject": "DSA Lab",
+                "room": "CL-22",
+                "class": "3CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "DSA",
+                "room": "303",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "DSA",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DSA",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            },
+            {
+                "subject": "ITR III",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DSA (T) Central Lib",
+                "room": "",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-22",
+                "class": "3CS-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DSA",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "DSA Lab",
+                "room": "CL-11",
+                "class": "3CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DSA",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "DSA",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ]
+    },
+    "Dr. Yogendra Kumar Gupta": {
+        "Monday": [
+            {
+                "subject": "IOT Lab",
+                "room": "CL-2",
+                "class": "7CS-E",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ESIoT",
+                "room": "306",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "IOT",
+                "room": "103",
+                "class": "7CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "ES for IOT",
+                "room": "ECL-11",
+                "class": "3-CS-IOT",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "ESIoT",
+                "room": "103",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "ESIoT",
+                "room": "404",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "ES for IOT",
+                "room": "ECL-11",
+                "class": "3-CS-IOT",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "IOT",
+                "room": "203",
+                "class": "7CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "IOT",
+                "room": "305",
+                "class": "7CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "IOT Lab",
+                "room": "CL-2",
+                "class": "7CS-E",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ]
+    },
+    "Ms. Garima Garg": {
+        "Monday": [
+            {
+                "subject": "CG Lab",
+                "room": "CL-19",
+                "class": "5CS AI-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CG Lab",
+                "room": "CL-3",
+                "class": "5CS AI-B",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "CGMT",
+                "room": "104",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "CG Lab",
+                "room": "CL-1",
+                "class": "5CS AI-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "CGMT",
+                "room": "103",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "CG Lab",
+                "room": "CL-21",
+                "class": "5CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "CG Lab",
+                "room": "CL-3",
+                "class": "5CS-C",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "CG Lab",
+                "room": "CL-16",
+                "class": "5CS AI-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "CGMT",
+                "room": "405",
+                "class": "5CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ]
+    },
+    "Dr. Shiv Priya": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [
+            {
+                "subject": "TC",
+                "room": "306",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            }
+        ]
+    },
+    "Dr. Kirti Bala": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "TC",
+                "room": "305",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Saturday": []
+    },
+    "Dr. Rashmi Kaushik": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "TC",
+                "room": "304",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Friday": [],
+        "Saturday": []
+    },
+    "Dr. Vijay Kumar Singhal": {
+        "Monday": [
+            {
+                "subject": "SPT",
+                "room": "304",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "SPT",
+                "room": "302",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "SPT",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "SPT",
+                "room": "403",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "SPT",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "SPT",
+                "room": "302",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "SPT",
+                "room": "106",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "SPT",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "SPT",
+                "room": "304",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "SPT",
+                "room": "302",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "SPT",
+                "room": "301",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "SPT",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SPT",
+                "room": "301",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "SPT",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "SPT",
+                "room": "302",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ]
+    },
+    "Ms. Surbhi Sharma": {
+        "Monday": [
+            {
+                "subject": "SPT",
+                "room": "305",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "SPT",
+                "room": "306",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "SPT",
+                "room": "404",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "SPT",
+                "room": "306",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "SPT",
+                "room": "306",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SPT",
+                "room": "104",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ]
+    },
+    "Dr. Shalini Shekhawat": {
+        "Monday": [
+            {
+                "subject": "SPT",
+                "room": "103",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "SPT",
+                "room": "302",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "SPT",
+                "room": "304",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "SPT",
+                "room": "305",
+                "class": "3CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "SPT",
+                "room": "304",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SPT",
+                "room": "403",
+                "class": "3CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ]
+    },
+    "Dr. Vivek Vijay": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [
+            {
+                "subject": "SPT",
+                "room": "306",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "SPT",
+                "room": "306",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "SPT",
+                "room": "106",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "SPT",
+                "room": "104",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "SPT",
+                "room": "306",
+                "class": "3CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "SPT",
+                "room": "104",
+                "class": "3CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 5
+            }
+        ]
+    },
+    "Mr. Dinesh Kumar Sharma": {
+        "Monday": [
+            {
+                "subject": "EEDM",
+                "room": "104",
+                "class": "7CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-103",
+                "class": "7CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-103",
+                "class": "7CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ]
+    },
+    "Mr. Pramod Jain": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-301",
+                "class": "7CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "EEDM",
+                "room": "L9",
+                "class": "7CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-301",
+                "class": "7CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ]
+    },
+    "Dr.Ashish Nayyar": {
+        "Monday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-301",
+                "class": "7CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-103",
+                "class": "7CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-103",
+                "class": "7CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ]
+    },
+    "Mr. Nitin Goyal": {
+        "Monday": [],
+        "Tuesday": [
+            {
+                "subject": "IOT Lab",
+                "room": "CL-2",
+                "class": "7CS-E",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 5
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "MEFA",
+                "room": "302",
+                "class": "3CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [
+            {
+                "subject": "MEFA",
+                "room": "303",
+                "class": "3CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "IOT Lab",
+                "room": "CL-3",
+                "class": "7CS-E",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ]
+    },
+    "Mr. Saurabh Gupta": {
+        "Monday": [
+            {
+                "subject": "EEDM",
+                "room": "103",
+                "class": "7CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "EEDM",
+                "room": "203",
+                "class": "7CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "EEDM",
+                "room": "305",
+                "class": "7CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ]
+    },
+    "Mr. Sanjay Bairwa": {
+        "Monday": [
+            {
+                "subject": "EEDM",
+                "room": "105",
+                "class": "7CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-301",
+                "class": "7CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-302",
+                "class": "7CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ]
+    },
+    "Mr. Vishnu Jangid": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "EEDM",
+                "room": "L9",
+                "class": "7CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "EEDM",
+                "room": "",
+                "class": "7CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-302",
+                "class": "7CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "EEDM",
+                "room": "301",
+                "class": "7CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "EEDM",
+                "room": "L9",
+                "class": "7CS-AI-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "EEDM",
+                "room": "ME-302",
+                "class": "7CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ]
+    },
+    "Trivendra Kumar Sharma": {
+        "Monday": [
+            {
+                "subject": "IOT Lab",
+                "room": "CL-2",
+                "class": "7CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "IOT Lab",
+                "room": "CL-3",
+                "class": "7CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "IOT Lab",
+                "room": "CL-3",
+                "class": "7CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "IOT Lab",
+                "room": "CL-3",
+                "class": "7CS-A",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "IOT Lab",
+                "room": "CL-3",
+                "class": "7CS-B",
+                "group": "Group 1",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "IOT Lab",
+                "room": "CL-3",
+                "class": "7CS-A",
+                "group": "Group 2",
+                "type": "Lab",
+                "slot": 3
+            }
+        ]
+    },
+    "Mr. Arun Beniwal": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "EEDM",
+                "room": "ME-301",
+                "class": "7CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "EEDM",
+                "room": "105",
+                "class": "7CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 6
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "EEDM",
+                "room": "203",
+                "class": "7CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 1
+            },
+            {
+                "subject": "EEDM",
+                "room": "105",
+                "class": "7CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "EEDM",
+                "room": "203",
+                "class": "7CS-DS-B",
+                "group": "",
+                "type": "Lab",
+                "slot": 2
+            },
+            {
+                "subject": "EEDM",
+                "room": "203",
+                "class": "7CS-DS-A",
+                "group": "",
+                "type": "Lab",
+                "slot": 3
+            }
+        ]
+    },
+    "Mr. Brij Mohan Sharma": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "MEFA",
+                "room": "303",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Friday": [],
+        "Saturday": []
+    },
+    "Mr. Yogesh Sharma": {
+        "Monday": [
+            {
+                "subject": "MEFA",
+                "room": "306",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Tuesday": [
+            {
+                "subject": "MEFA",
+                "room": "305",
+                "class": "3CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": []
+    },
+    "Mr. Madhukar Kumar": {
+        "Monday": [],
+        "Tuesday": [
+            {
+                "subject": "MEFA",
+                "room": "303",
+                "class": "3CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "MEFA",
+                "room": "302",
+                "class": "3CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Friday": [],
+        "Saturday": []
+    },
+    "Mr. Nikhil Sharma": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "EEDM",
+                "room": "L9",
+                "class": "7CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "EEDM",
+                "room": "L9",
+                "class": "7CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "EEDM",
+                "room": "L9",
+                "class": "7CS-AI-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ]
+    },
+    "Dr. Monika Mathur": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [
+            {
+                "subject": "ITC",
+                "room": "406",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "ITC",
+                "room": "105",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "ITC",
+                "room": "405",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Friday": [],
+        "Saturday": [
+            {
+                "subject": "ITC",
+                "room": "106",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ]
+    },
+    "Dr. RukShar Zafer": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [
+            {
+                "subject": "ITC",
+                "room": "105",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            }
+        ],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "ITC",
+                "room": "404",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "ITC",
+                "room": "406",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "ITC",
+                "room": "404",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ]
+    },
+    "Dr. Suman Sharma": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [
+            {
+                "subject": "ITC",
+                "room": "403",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "ITC",
+                "room": "304",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Thursday": [],
+        "Friday": [
+            {
+                "subject": "ITC",
+                "room": "404",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "ITC",
+                "room": "104",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ]
+    },
+    "Dr. Kiran Rathi": {
+        "Monday": [],
+        "Tuesday": [
+            {
+                "subject": "WC",
+                "room": "406",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            },
+            {
+                "subject": "WC",
+                "room": "105",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 4
+            }
+        ],
+        "Wednesday": [
+            {
+                "subject": "WC",
+                "room": "L9",
+                "class": "5CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            },
+            {
+                "subject": "WC",
+                "room": "303",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "WC",
+                "room": "405",
+                "class": "5CS-E",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Friday": [],
+        "Saturday": [
+            {
+                "subject": "WC",
+                "room": "405",
+                "class": "5CS-D",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ]
+    },
+    "Dr. Jay Prakash Vijay": {
+        "Monday": [
+            {
+                "subject": "WC",
+                "room": "403",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "WC",
+                "room": "403",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "WC",
+                "room": "304",
+                "class": "5CS-A",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "WC",
+                "room": "405",
+                "class": "5CS-C",
+                "group": "",
+                "type": "Theory",
+                "slot": 1
+            },
+            {
+                "subject": "WC",
+                "room": "404",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "WC",
+                "room": "304",
+                "class": "5CS-B",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ]
+    },
+    "Dr. Mamta Sakpal": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": []
+    },
+    "Lata Lalit": {
+        "Monday": [
+            {
+                "subject": "DE",
+                "room": "305",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 3
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [
+            {
+                "subject": "DE",
+                "room": "403",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            }
+        ],
+        "Thursday": [
+            {
+                "subject": "DE",
+                "room": "306",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 5
+            },
+            {
+                "subject": "DE",
+                "room": "306",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 7
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "DE",
+                "room": "301",
+                "class": "3-CS-IOT",
+                "group": "",
+                "type": "Theory",
+                "slot": 6
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "DE",
+                "room": "304",
+                "class": "3CS-F",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ]
+    },
+    "Dr. Rohit Mukharji": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [
+            {
+                "subject": "OT",
+                "room": "405",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Friday": [
+            {
+                "subject": "OT APJ Seminar Hall",
+                "room": "",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ],
+        "Saturday": [
+            {
+                "subject": "OT",
+                "room": "FL8",
+                "class": "M.Tech-I",
+                "group": "",
+                "type": "Theory",
+                "slot": 2
+            }
+        ]
+    }
+}

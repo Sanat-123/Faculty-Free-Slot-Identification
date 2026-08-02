@@ -1,0 +1,56 @@
+{
+    "SHOW_TIMETABLE": [
+        "show timetable",
+        "display timetable",
+        "timetable",
+        "class schedule",
+        "show schedule",
+        "schedule"
+    ],
+
+    "FIND_TEACHER": [
+        "who teaches",
+        "teacher of",
+        "faculty of",
+        "who is teaching",
+        "who handles",
+        "who takes"
+    ],
+
+    "FIND_ROOM": [
+        "where is",
+        "room of",
+        "lab of",
+        "location of",
+        "where can i find"
+    ],
+
+    "FIND_SUBJECT": [
+        "subject",
+        "what subject",
+        "which subject",
+        "course"
+    ],
+
+    "FIND_FREE_FACULTY": [
+        "free faculty",
+        "available faculty",
+        "who is free",
+        "faculty free",
+        "available teacher"
+    ],
+
+    "FIND_FREE_ROOM": [
+        "free room",
+        "available room",
+        "empty room",
+        "vacant room"
+    ],
+
+    "FIND_CLASS": [
+        "class",
+        "section",
+        "batch",
+        "group"
+    ]
+}
