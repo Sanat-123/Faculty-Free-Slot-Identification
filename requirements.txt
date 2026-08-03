@@ -1,0 +1,13 @@
+# Faculty Free Slot Identification - requirements
+#
+# Core PDF parsing + NLP engine
+pdfplumber>=0.10
+rapidfuzz>=3.0
+
+# PDF Chatbot UI (pdf_chatbot_app.py)
+streamlit>=1.40
+pandas>=2.0
+
+# Optional - only needed by chatbot/nlp_engine.py (spaCy based)
+# spacy>=3.7
+# python -m spacy download en_core_web_sm

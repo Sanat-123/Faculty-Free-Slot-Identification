@@ -48,7 +48,9 @@ class IntentDetector:
         "FIND_SUBJECT": {
             "keywords": {
                 "subject",
-                "course"
+                "subjects",
+                "course",
+                "courses"
             }
         }
 
