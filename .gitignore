@@ -1,18 +1,39 @@
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-.venv/
+# Python virtual environment
 venv/
+.venv/
 env/
 
-# Streamlit / runtime artifacts
-*.db
-faculty_upload_*.db
+# Python cache
+__pycache__/
+*.py[cod]
 
-# OS
-.DS_Store
+# Local timetable datasets
+data/*.pdf
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+# Generated / processed data
+data/raw/
+data/processed/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
 
 # IDE
-.idea/
 .vscode/
+.idea/
+
+# Testing/cache
+.pytest_cache/
+.mypy_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
