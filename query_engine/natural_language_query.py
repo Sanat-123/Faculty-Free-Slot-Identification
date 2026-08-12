@@ -1455,6 +1455,20 @@ class NaturalLanguageQuery:
             "teacher"
         )
 
+        # These values are also returned by execute().
+        # Keep them available for all friendly-answer branches.
+        subject = result.get(
+            "subject"
+        )
+
+        class_name = result.get(
+            "class_name"
+        )
+
+        room = result.get(
+            "room"
+        )
+
         # -----------------------------------------------------
         # Faculty free
         # -----------------------------------------------------
