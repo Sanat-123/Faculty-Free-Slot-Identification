@@ -29,7 +29,12 @@ Supports:
 The importer converts different Excel formats into a
 common UniSched record structure.
 
-It does NOT invent missing Day/Slot information.
+Universal normalization is delegated to:
+    import_engine.universal_normalizer.UniversalNormalizer
+
+The importer does NOT contain university-specific,
+semester-specific, faculty-specific, or dataset-specific
+rules.
 ==========================================================
 """
 
@@ -39,6 +44,8 @@ from pathlib import Path
 from typing import Any, Dict, List
 
 import pandas as pd
+
+from import_engine.universal_normalizer import UniversalNormalizer
 
 
 class ExcelImporter:
@@ -66,12 +73,19 @@ class ExcelImporter:
             "faculty name",
             "teacher name",
             "instructor",
+            "professor",
+            "professor name",
+            "faculty member",
+            "faculty_member",
         },
 
         "group_name": {
             "group",
             "group name",
             "group_name",
+            "batch",
+            "batch name",
+            "division",
         },
 
         "subject": {
@@ -79,6 +93,8 @@ class ExcelImporter:
             "course",
             "course name",
             "course_name",
+            "paper",
+            "module",
         },
 
         "length": {
@@ -91,6 +107,7 @@ class ExcelImporter:
             "lessons per week",
             "lessons_week",
             "weekly lessons",
+            "weekly classes",
         },
 
         "available_classrooms": {
@@ -111,11 +128,14 @@ class ExcelImporter:
             "classrooms",
             "room name",
             "room_name",
+            "location",
+            "venue",
         },
 
         "day": {
             "day",
             "weekday",
+            "week day",
         },
 
         "slot": {
@@ -123,12 +143,16 @@ class ExcelImporter:
             "period",
             "period number",
             "time slot",
+            "slot number",
+            "period no",
+            "period no.",
         },
 
         "type": {
             "type",
             "class type",
             "lecture type",
+            "session type",
         },
     }
 
@@ -149,7 +173,6 @@ class ExcelImporter:
         file_path = Path(file_path)
 
         if not file_path.exists():
-
             raise FileNotFoundError(
                 f"Excel file not found: {file_path}"
             )
@@ -159,7 +182,6 @@ class ExcelImporter:
             ".xls",
             ".xlsm",
         }:
-
             raise ValueError(
                 f"Unsupported Excel format: "
                 f"{file_path.suffix}"
@@ -193,13 +215,13 @@ class ExcelImporter:
         # ----------------------------------------------
         # Forward-fill class names
         #
-        # Your Excel contains rows like:
+        # Example:
         #
         # 3CS A
-        # [assignment]
-        # [assignment]
+        # assignment
+        # assignment
         #
-        # The class name belongs to all following
+        # The class name belongs to the following
         # assignment rows until the next class.
         # ----------------------------------------------
 
@@ -208,7 +230,7 @@ class ExcelImporter:
             mapping
         )
 
-        records = []
+        records: List[Dict[str, Any]] = []
 
         for _, row in dataframe.iterrows():
 
@@ -252,6 +274,7 @@ class ExcelImporter:
             text
             .replace("_", " ")
             .replace("-", " ")
+            .replace("/", " ")
         )
 
         text = " ".join(
@@ -479,7 +502,7 @@ class ExcelImporter:
         )
 
         # ----------------------------------------------
-        # Convert slot
+        # Convert slot using UNIVERSAL NORMALIZER
         # ----------------------------------------------
 
         slot = cls._parse_slot(
@@ -488,56 +511,50 @@ class ExcelImporter:
 
         # ----------------------------------------------
         # Infer type only when source doesn't provide it
+        #
+        # This is a generic heuristic, not tied to a
+        # particular university.
         # ----------------------------------------------
 
         if not class_type:
 
             if "lab" in subject.lower():
-
                 class_type = "Lab"
-
             else:
-
                 class_type = "Theory"
 
         # ----------------------------------------------
         # Universal record
         # ----------------------------------------------
 
-        return {
-
+        record = {
             "teacher": teacher,
-
             "day": day,
-
             "slot": slot,
-
             "subject": subject,
-
             "room": room,
-
             "class_name": class_name,
-
             "group_name": group_name,
-
             "type": class_type,
-
             "length": length,
-
             "lessons_per_week":
                 lessons_per_week,
-
             "available_classrooms":
                 available_classrooms,
-
             "cycle": cycle,
-
             "source_file":
                 source_file,
-
             "source_type":
                 "excel",
         }
+
+        # ----------------------------------------------
+        # Apply universal normalization
+        # ----------------------------------------------
+
+        return UniversalNormalizer.normalize_record(
+            record
+        )
 
     # ==================================================
     # SLOT PARSER
@@ -545,37 +562,26 @@ class ExcelImporter:
 
     @staticmethod
     def _parse_slot(
-        value: str
+        value: Any
     ):
         """
-        Convert numeric slot values into integers.
+        Delegate slot interpretation to the universal
+        normalizer.
 
         Examples:
-            "3"    -> 3
-            "3.0"  -> 3
-            ""     -> None
-            "Slot 3" -> None
+
+            3          -> 3
+            3.0        -> 3
+            "3"        -> 3
+            "3.0"      -> 3
+            "Slot 3"   -> 3
+            "Period 3" -> 3
+            "P3"       -> 3
         """
 
-        if not value:
-            return None
-
-        try:
-
-            number = float(value)
-
-            if number.is_integer():
-
-                return int(number)
-
-        except (
-            ValueError,
-            TypeError
-        ):
-
-            pass
-
-        return None
+        return UniversalNormalizer.normalize_slot(
+            value
+        )
 
     # ==================================================
     # VALID RECORD
@@ -588,8 +594,6 @@ class ExcelImporter:
         """
         Determine whether a row represents a real
         timetable/class assignment.
-
-        Important:
 
         A class header such as:
 
@@ -638,9 +642,18 @@ class ExcelImporter:
         file_path = Path(file_path)
 
         if not file_path.exists():
-
             raise FileNotFoundError(
                 f"Excel file not found: {file_path}"
+            )
+
+        if file_path.suffix.lower() not in {
+            ".xlsx",
+            ".xls",
+            ".xlsm",
+        }:
+            raise ValueError(
+                f"Unsupported Excel format: "
+                f"{file_path.suffix}"
             )
 
         dataframe = pd.read_excel(
@@ -681,7 +694,6 @@ class ExcelImporter:
             )
 
         return {
-
             "file":
                 file_path.name,
 
@@ -714,7 +726,7 @@ if __name__ == "__main__":
     print("=" * 80)
 
     print(
-        "UniSched AI - Excel Importer"
+        "UniSched AI - Universal Excel Importer"
     )
 
     print("=" * 80)

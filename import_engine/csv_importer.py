@@ -1,6 +1,6 @@
 """
 ==========================================================
-UniSched AI - Universal CSV Importer
+UNISCHED AI - Universal CSV Importer
 ==========================================================
 
 Purpose
@@ -8,23 +8,24 @@ Purpose
 Import user-uploaded CSV datasets and convert them into
 the same universal record format used by ExcelImporter.
 
-The importer attempts to recognize common timetable/data
-columns such as:
+Supported concepts include:
 
-    teacher
-    faculty
-    subject
-    course
-    class
-    section
-    group
-    room
-    classroom
-    day
-    slot
-    period
+    teacher / faculty / instructor / professor
+    subject / course / paper / module
+    class / section / batch / program
+    group / division / lab group
+    room / classroom / location / venue
+    day / weekday
+    slot / period / time slot
     type
-    etc.
+    length / duration
+    lessons per week
+    available classrooms
+    cycle
+
+Universal normalization is handled by:
+
+    import_engine.universal_normalizer.UniversalNormalizer
 
 IMPORTANT
 ---------
@@ -40,6 +41,10 @@ from pathlib import Path
 from typing import Any, Dict, List
 
 import pandas as pd
+
+from import_engine.universal_normalizer import (
+    UniversalNormalizer
+)
 
 
 class CSVImporter:
@@ -73,6 +78,8 @@ class CSVImporter:
             "professor name",
             "staff",
             "staff name",
+            "faculty member",
+            "faculty_member",
         },
 
         "group_name": {
@@ -113,7 +120,6 @@ class CSVImporter:
             "day name",
             "weekday",
             "week day",
-            "date",
         },
 
         "slot": {
@@ -124,6 +130,8 @@ class CSVImporter:
             "period number",
             "lecture period",
             "class period",
+            "period no",
+            "period no.",
         },
 
         "type": {
@@ -177,6 +185,18 @@ class CSVImporter:
     def _normalize_column(
         column: Any
     ) -> str:
+        """
+        Normalize a CSV column name.
+
+        Examples:
+
+            Teacher Name
+            teacher_name
+            TEACHER-NAME
+            teacher/name
+
+        all become a comparable normalized form.
+        """
 
         if column is None:
             return ""
@@ -205,6 +225,9 @@ class CSVImporter:
         cls,
         dataframe: pd.DataFrame
     ) -> pd.DataFrame:
+        """
+        Normalize all CSV column names.
+        """
 
         dataframe = dataframe.copy()
 
@@ -224,13 +247,17 @@ class CSVImporter:
         cls,
         columns
     ) -> Dict[str, str]:
+        """
+        Detect semantic timetable fields from CSV
+        column names.
+        """
 
         normalized_columns = {
             cls._normalize_column(column): column
             for column in columns
         }
 
-        mapping = {}
+        mapping: Dict[str, str] = {}
 
         for standard_name, aliases in (
             cls.COLUMN_ALIASES.items()
@@ -242,7 +269,10 @@ class CSVImporter:
                     cls._normalize_column(alias)
                 )
 
-                if normalized_alias in normalized_columns:
+                if (
+                    normalized_alias
+                    in normalized_columns
+                ):
 
                     mapping[standard_name] = (
                         normalized_columns[
@@ -265,8 +295,12 @@ class CSVImporter:
         """
         Read CSV while attempting common encodings.
 
-        This is useful because CSV files may come from
-        Excel, Windows applications, or other systems.
+        This supports CSV files produced by:
+
+            - Excel
+            - Windows applications
+            - UTF-8 applications
+            - other common data systems
         """
 
         encodings = [
@@ -292,7 +326,6 @@ class CSVImporter:
                 last_error = exc
 
         if last_error:
-
             raise last_error
 
         return pd.read_csv(
@@ -300,7 +333,7 @@ class CSVImporter:
         )
 
     # ======================================================
-    # VALUE
+    # GET VALUE
     # ======================================================
 
     @staticmethod
@@ -310,6 +343,9 @@ class CSVImporter:
         key: str,
         default: str = ""
     ) -> str:
+        """
+        Safely retrieve a value from a CSV row.
+        """
 
         column = mapping.get(key)
 
@@ -329,27 +365,27 @@ class CSVImporter:
 
     @staticmethod
     def _parse_slot(
-        value: str
+        value: Any
     ):
+        """
+        Delegate slot interpretation to the universal
+        normalizer.
 
-        if not value:
-            return None
+        Supported examples:
 
-        try:
+            3
+            3.0
+            "3"
+            "3.0"
+            "Slot 3"
+            "Period 3"
+            "P3"
+            "p3"
+        """
 
-            number = float(value)
-
-            if number.is_integer():
-                return int(number)
-
-        except (
-            ValueError,
-            TypeError
-        ):
-
-            pass
-
-        return None
+        return UniversalNormalizer.normalize_slot(
+            value
+        )
 
     # ======================================================
     # VALID RECORD
@@ -386,6 +422,10 @@ class CSVImporter:
         mapping: Dict[str, str],
         source_file: str
     ) -> Dict[str, Any]:
+        """
+        Convert one CSV row into the universal
+        UNISCHED record structure.
+        """
 
         teacher = cls._value(
             row,
@@ -459,43 +499,57 @@ class CSVImporter:
             "type"
         )
 
+        # --------------------------------------------------
+        # UNIVERSAL SLOT NORMALIZATION
+        # --------------------------------------------------
+
         slot = cls._parse_slot(
             slot_text
         )
 
-        # ----------------------------------------------
-        # Infer type only if missing
-        # ----------------------------------------------
+        # --------------------------------------------------
+        # GENERIC TYPE INFERENCE
+        # --------------------------------------------------
 
         if not class_type:
 
             if "lab" in subject.lower():
-
                 class_type = "Lab"
-
             else:
-
                 class_type = "Theory"
 
-        return {
+        # --------------------------------------------------
+        # CREATE COMMON RECORD
+        # --------------------------------------------------
 
-            "teacher": teacher,
+        record = {
 
-            "day": day,
+            "teacher":
+                teacher,
 
-            "slot": slot,
+            "day":
+                day,
 
-            "subject": subject,
+            "slot":
+                slot,
 
-            "room": room,
+            "subject":
+                subject,
 
-            "class_name": class_name,
+            "room":
+                room,
 
-            "group_name": group_name,
+            "class_name":
+                class_name,
 
-            "type": class_type,
+            "group_name":
+                group_name,
 
-            "length": length,
+            "type":
+                class_type,
+
+            "length":
+                length,
 
             "lessons_per_week":
                 lessons_per_week,
@@ -503,7 +557,8 @@ class CSVImporter:
             "available_classrooms":
                 available_classrooms,
 
-            "cycle": cycle,
+            "cycle":
+                cycle,
 
             "source_file":
                 source_file,
@@ -511,6 +566,14 @@ class CSVImporter:
             "source_type":
                 "csv",
         }
+
+        # --------------------------------------------------
+        # UNIVERSAL NORMALIZATION
+        # --------------------------------------------------
+
+        return UniversalNormalizer.normalize_record(
+            record
+        )
 
     # ======================================================
     # IMPORT FILE
@@ -521,6 +584,9 @@ class CSVImporter:
         cls,
         file_path: str | Path
     ) -> List[Dict[str, Any]]:
+        """
+        Import a CSV file and return universal records.
+        """
 
         file_path = Path(file_path)
 
@@ -547,7 +613,9 @@ class CSVImporter:
             mapping
         )
 
-        records = []
+        records: List[
+            Dict[str, Any]
+        ] = []
 
         for _, row in dataframe.iterrows():
 
@@ -562,7 +630,9 @@ class CSVImporter:
             ):
                 continue
 
-            records.append(record)
+            records.append(
+                record
+            )
 
         return records
 
@@ -576,6 +646,11 @@ class CSVImporter:
         dataframe: pd.DataFrame,
         mapping: Dict[str, str]
     ) -> pd.DataFrame:
+        """
+        Carry the latest class/section value down to
+        following rows when the source CSV uses grouped
+        records.
+        """
 
         dataframe = dataframe.copy()
 
@@ -602,6 +677,9 @@ class CSVImporter:
         cls,
         file_path: str | Path
     ) -> Dict[str, Any]:
+        """
+        Inspect a CSV file without importing records.
+        """
 
         file_path = Path(file_path)
 
@@ -665,7 +743,6 @@ class CSVImporter:
 
             "has_slot":
                 has_slot,
-
         }
 
 
